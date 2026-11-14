@@ -1,0 +1,1757 @@
+[
+  {
+    "street": "Acme Road",
+    "area": "Ikeja (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Lateef Jakande Road",
+    "area": "Ikeja (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Metalbox Road",
+    "area": "Ikeja (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Surulere Industrial Road",
+    "area": "Ikeja (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Abayomi Shonuga Crescent",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Solomon",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Abeke Animashaun Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Solomon",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Abeke Ogunkoya Drive",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Abiodun Ikomi Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Adebayo Doherty Road",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Adebisi Ogunniyi Crescent",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Adedeji Adekola Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Adenike Wole Ajibode Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Adewunmi Adebimpe Drive",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Solomon",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Admiralty Close",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Admiralty Road",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Admiralty Way",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "African Lane",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Ahmad Tijanu Otton Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Akintunde A. Adeyemi Drive",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Alaiyelunwa Ologunkutere Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Awudu Ekpekha Boulevard Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Ayinde Akinmade Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Babafemi Osoba Crescent",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Babatunde Anjous Avenue",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Baderinwa Alabi Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Solomon",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Bashorun R.I. Okusanya Avenue",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Bayo Olagoke Close",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Bisola Durosinmi Etti Drive",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Solomon",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Castle and Temple Drive",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Chief Albert Iyorah Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Solomon",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Chief Collins Uchidiuno Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Chief Globahan Owolabi Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Christ Avenue",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Chucks Onyebuchi Drive (Rehoboth Drive)",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Dapo Solanke Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Dele Adedeji Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Solomon",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Dr Ladi Alakija Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Dr Omon Ebhomenye Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Emeka Nweze Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Emma Abimbola Cole",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Esther Adeleke Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Fatai Idowu Arobieke Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Freedom Way",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "General Emdin Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "General Ogomudia Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "George Enenmoh Crescent",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Hakeem Dickson Link Road",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Henry Ojogho Crescent",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Solomon",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Hunponu-Wusu Road",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Solomon",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Ibiyinka Salvador Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Jeremiah Ugwu Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Jerry Iriabe Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Kayode Animashaun Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Kenneth Agbakuru Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Solomon",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Kunle Ogunba Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Ladipo Latinwo",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Ladipo Omoteshi Cole Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Solomon",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Michael Olawale-Cole Drive",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Muiz Banire Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Ogidi Crescent",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Oladimeji Alo / Gbemidele Akinsowon Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Olawale Cole Onitiri Avenue",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Oluwole Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Omorinre Johnson Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Solomon",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Otunba Adedoyin Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Solomon",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Oyibo Adjarho Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Perez Drive",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Solomon",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Rasheed Alaba Williams Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Solomon",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Shakiru Anjorin Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Siji Soetan Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Sir Rufus Foluso Giwa",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Sule Onabiyi Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Taiwo Ishola Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "The Providence Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Solomon",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "The Rock Drive",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Solomon",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Victoria Arobieke Street",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Westron Close",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Wumego Crescent",
+    "area": "Lekki Phase 1 (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Abagbon Close",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Adeola Hopewell Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Adeola Odeku Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Adetokunbo Ademola Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Adewunmi Ogunsanya Avenue",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Agoro Odiyan Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Ahmadu Bello Way",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Ahmed Onibudo Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Ajose Adeyogun Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Akarigbere Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Akin Adesola Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Akinbo Savage Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Amodu Ojikutu Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Amodu Tijani Close",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Babatunde Jose Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Bishop Aboyade Cole Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Bishop Kale Close",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Bishop Oluwole Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Chartered Bank Close",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Churchgate Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Danmole Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Eletu Ogabi Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Etim Inyang Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Idejo Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Idowu Taylor Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Karimu Ikotun Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Kasumo Ekomode Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Louis Solomon Close",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Mike Adenuga Close",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Mike Inegbese Close",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Muri Okunola Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Oju Olobun Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Oladele Olashore Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Ologun Agbaje Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Olosa Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Olubosi Close",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Oyin Jolayemi Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Ozumba Mbadiwe Avenue",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "Kaffy",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Saka Jojo Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Saka Tinubu Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Sanusi Fafunwa Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Saro Close",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Sir Samuel Manuwa Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "To be defined — Check with SD",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Tiamiyu Savage Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "John",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Towry Close",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "Annabel",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "C&I Leasing drive",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "Solomon",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Taiye Olowu Street",
+    "area": "Victoria Island (Enterprise)",
+    "salesperson": "Tessy",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Metalbox Road",
+    "area": "Ikeja (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Abeke Animashaun Street",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Adenike Wole Ajibode Street",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Admiralty Close",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Ahmad Tijanu Otton Street",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Akintunde A. Adeyemi Drive",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Alaiyelunwa Ologunkutere Street",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Ayinde Akinmade Street",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Babatunde Anjous Avenue",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Baderinwa Alabi Street",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Bashorun R.I. Okusanya Avenue",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Bayo Olagoke Close",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Bisola Durosinmi Etti Drive",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Castle and Temple Drive",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Chief Collins Uchidiuno Street",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Chief Globahan Owolabi Street",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Christ Avenue",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Dele Adedeji Street",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Dr Ladi Alakija Street",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Emeka Nweze Street",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Emma Abimbola Cole",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "General Emdin Street",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "George Enenmoh Crescent",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Henry Ojogho Crescent",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Hunponu-Wusu Road",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Ibiyinka Salvador Street",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Jeremiah Ugwu Street",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Kayode Animashaun Street",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Ladipo Latinwo",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Michael Olawale-Cole Drive",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Ogidi Crescent",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Oladimeji Alo / Gbemidele Akinsowon Street",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Olawale Cole Onitiri Avenue",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Otunba Adedoyin Street",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Shakiru Anjorin Street",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Sir Rufus Foluso Giwa",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Taiwo Ishola Street",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "The Providence Street",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "The Rock Drive",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Westron Close",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Wumego Crescent",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "C&I Leasing drive",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Taiye Olowu Street",
+    "area": "Lekki Phase 1 (Residential)",
+    "salesperson": "Azeezat",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Adeola Hopewell Street",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Adewunmi Ogunsanya Avenue",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Agoro Odiyan Street",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Akarigbere Street",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Akinbo Savage Street",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Babatunde Jose Street",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Bishop Kale Close",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Bishop Oluwole Street",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Chartered Bank Close",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Churchgate Street",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Danmole Street",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Eletu Ogabi Street",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Etim Inyang Street",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Idowu Taylor Street",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Kasumo Ekomode Street",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Louis Solomon Close",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Mike Adenuga Close",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Mike Inegbese Close",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Muri Okunola Street",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Oju Olobun Street",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Oladele Olashore Street",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Ologun Agbaje Street",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Olosa Street",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Olubosi Close",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Saro Close",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Tiamiyu Savage Street",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "10 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "street": "Towry Close",
+    "area": "Victoria Island (Residential)",
+    "salesperson": "Thomas",
+    "installation_duration": "21 days",
+    "available": true,
+    "latitude": null,
+    "longitude": null
+  }
+]
