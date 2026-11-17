@@ -58,8 +58,8 @@ function setPins(data){
   markers.forEach(m=>map.removeLayer(m));markers=[];
   const bounds=[];
   for(const p of data){
-    const lat=Number(p.lat),lng=Number(p.lng);
-    if(!Number.isFinite(lat)||!Number.isFinite(lng)||Math.abs(lat)>90||Math.abs(lng)>180)continue;
+    const lat=Number(p.latitude),lng=Number(p.longitude);
+    if (p.latitude == null || p.longitude == null || !Number.isFinite(lat) || !Number.isFinite(lng) || Math.abs(lat) > 90 || Math.abs(lng) > 180) continue;
     const point=[lat,lng];
     const marker=L.circleMarker(point,{radius:8,color:'#0d6172',weight:2,fillColor:'#16a5a5',fillOpacity:0.9}).addTo(map);
     marker.bindPopup(document.createTextNode(String(p.title||'Location')));
